@@ -1,0 +1,11 @@
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\bin\Debug\KonsolkaLoLAPITest.exe.config
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\bin\Debug\KonsolkaLoLAPITest.exe
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\bin\Debug\KonsolkaLoLAPITest.pdb
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\bin\Debug\RestSharp.dll
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\bin\Debug\RestSharp.xml
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\obj\Debug\KonsolkaLoLAPITest.csprojResolveAssemblyReference.cache
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\obj\Debug\KonsolkaLoLAPITest.exe
+D:\Workspace\Visual Studio\KonsolkaLoLAPITest\KonsolkaLoLAPITest\obj\Debug\KonsolkaLoLAPITest.pdb
+C:\Users\Shiro\Desktop\ttt\rrrr\KonsolkaLoLAPITest\KonsolkaLoLAPITest\bin\Debug\KonsolkaLoLAPITest.exe.config
+C:\Users\Shiro\Desktop\ttt\rrrr\KonsolkaLoLAPITest\KonsolkaLoLAPITest\obj\Debug\KonsolkaLoLAPITest.exe
+C:\Users\Shiro\Desktop\ttt\rrrr\KonsolkaLoLAPITest\KonsolkaLoLAPITest\obj\Debug\KonsolkaLoLAPITest.pdb
