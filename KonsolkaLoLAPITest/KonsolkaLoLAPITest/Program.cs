@@ -24,6 +24,7 @@ namespace KonsolkaLoLAPITest
 			Summoner summoner = queryResult.Data.Values.First();
 			Console.WriteLine(summoner.id);
 			Console.WriteLine(summoner.name);
+			Console.WriteLine(summoner.name);
 			Console.WriteLine(summoner.profileIconId);
 			var date = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
 			date = date.AddMilliseconds(summoner.revisionDate);
